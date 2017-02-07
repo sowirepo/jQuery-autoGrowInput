@@ -2,7 +2,7 @@
   "name": "jquery-auto-grow-input",
   "version": "0.0.1",
   "description": "jquery plugin for autogrowing your textareas",
-  "main": "jquery.auto-grow-input.js",
+  "main": "jquery.auto-grow-input.min.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sowirepo/jQuery-autoGrowInput.git"
